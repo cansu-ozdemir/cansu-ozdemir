@@ -26,6 +26,7 @@ For me, software development is not just a profession; **it's a passion where I 
   </a>
 </p>
 
+<br><br>
 
 <h2 align="center">🔧 <strong>Technologies & Tools</strong></h2>
 
