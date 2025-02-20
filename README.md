@@ -9,16 +9,17 @@ For me, software development is not just a profession; **it's a passion where I 
 **My goal is to be part of impactful projects in the software world and continuously grow as a developer.** 🚀  
 
 
-📫 **Reach me on:**  
+<p align="center">📫 <strong>Reach me on:</strong></p>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/cansu-ozdemir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:cansuozzdemir@gmail.com" target="_blank">
+  <a href="mailto:cansuozzdemir@gmail.com" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
 
 
 
