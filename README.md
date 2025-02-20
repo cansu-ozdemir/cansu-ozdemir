@@ -11,6 +11,8 @@ Hello! I'm Cansu Özdemir, a Full Stack Developer who has turned her passion for
 For me, software development is not just a profession; **it's a passion where I merge my problem-solving skills with creativity.** I love learning new things, pushing my limits through projects, and creating innovative solutions.  
 **My goal is to be part of impactful projects in the software world and continuously grow as a developer.** 🚀  
 
+<br><br>
+
 
 <h2 align="center">📫 <strong>Reach Me On</strong></h2>
 
