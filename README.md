@@ -26,11 +26,11 @@ For me, software development is not just a profession; **it's a passion where I 
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br/>
-      <strong>HTML5</strong>
+      <strong>HTML</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br/>
-      <strong>CSS3</strong>
+      <strong>CSS</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br/>
