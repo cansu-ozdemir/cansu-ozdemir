@@ -2,7 +2,6 @@
 <h1 align="center" style="margin-top: 40px; margin-bottom: 50px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=00FF00&center=true&width=800&lines=Hello+Everyone!%20I'm%20Cansu%20Özdemir!;I'm%20a%20Full+Stack+Developer!;Passionate+about+coding%20%26%20problem-solving!" alt="Typing SVG" />
 </h1>
-<br><br>
 
 Hello! I'm Cansu Özdemir, a Full Stack Developer who has turned her passion for technology into a career and is continuously improving herself.  
 For me, software development is not just a profession; **it's a passion where I merge my problem-solving skills with creativity.** I love learning new things, pushing my limits through projects, and creating innovative solutions.  
@@ -21,8 +20,6 @@ For me, software development is not just a profession; **it's a passion where I 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35">
   </a>
 </p>
-
-<br><br>
 
 <h2 align="center">🔧 <strong>Technologies & Tools</strong></h2>
 
