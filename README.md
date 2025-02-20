@@ -5,9 +5,7 @@
 </h1>
 
 
-
 <br><br>
-
 
 
 Hello! I'm Cansu Özdemir, a Full Stack Developer who has turned her passion for technology into a career and is continuously improving herself.  
