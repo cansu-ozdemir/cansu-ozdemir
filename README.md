@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF00&center=true&width=700&lines=Hello+Everyone!%20I'm%20Cansu%20Özdemir!;I'm%20a%20Full%20Stack%20Developer!;Passionate%20about%20coding%20%26%20problem-solving!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=25&pause=1000&color=00FF00&center=true&width=700&lines=Hello+Everyone!%20I'm%20Cansu%20Özdemir!;I'm%20a%20Full%20Stack%20Developer!;Passionate%20about%20coding%20%26%20problem-solving!" alt="Typing SVG" />
 </h1>
+
 
 
 
